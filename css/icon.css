@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+.icon-inicio {
+	background-image:url('../img/icons/house.png')!important;
+}
+.icon-crearex {
+	background-image:url('../img/icons/page_add.png')!important;
+}
+.icon-reporte{
+	background-image:url('../img/icons/report.png')!important;
+}
+.icon-mantenedor{
+	background-image:url('../img/icons/cog.png')!important;
+}
+.icon-ayuda{
+	background-image:url('../img/icons/help.png')!important;
+}
+.icon-user{
+	background-image:url('../img/icons/user.png')!important;
+}
+.icon-chat{
+	background-image:url('../img/icons/comments.png')!important;
+}
+.icon-notificacion{
+	background-image:url('../img/icons/notification-bg.png')!important;
+}
+.icon-bandejaentrada{
+	background-image:url('../img/icons/email.png')!important;
+}
+.icon-bandejasalida{
+	background-image:url('../img/icons/email_go.png')!important;
+}
