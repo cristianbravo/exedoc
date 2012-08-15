@@ -29,3 +29,12 @@
 .icon-bandejasalida{
 	background-image:url('../img/icons/email_go.png')!important;
 }
+.icon-avanzada{
+	background-image:url('../img/icons/zoom.png')!important;
+}
+.icon-buscar{
+	background-image:url('../img/icons/folder_magnify.png')!important;
+}
+.icon-guardar{
+	background-image:url('../img/icons/guardar.png')!important;
+}
